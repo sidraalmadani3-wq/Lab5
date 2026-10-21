@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CST2335 Lab 5</string>
+    <string name="todo_hint">Type Here</string>
+    <string name="urgent">Urgent</string>
+    <string name="add">ADD</string>
+    <string name="deleted">Todo deleted</string>
+    <string name="enter_todo">Enter a todo first</string>
+    <string name="saved">Todo saved</string>
+</resources>
